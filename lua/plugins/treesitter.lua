@@ -15,6 +15,10 @@ return {
         "sql",
         "vim",
         "lua",
+        "json",
+        "tsx",
+        "yaml",
+        "query",
       },
       query_linter = {
         enable = true,
